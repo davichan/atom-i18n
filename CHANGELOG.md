@@ -1,3 +1,10 @@
+## 0.7.1 - welcome page support
+* welcome page i18n #60
+* enhance about page i18n #64
+* Chinese (simplified) update #58
+* fix #66 to support 1.16beta DOM structure
+
+
 ## 0.7.0 - Russian support
 * Russian support (80%)
 * Spanish support update (100%)
